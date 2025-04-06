@@ -12,9 +12,8 @@
       "groups": {
         "Novels": "/proxy/api/imgur/chapter/CneTWQV"
       }
-    }
-  },
-    "1": {
+    },
+        "1": {
       "title": "Boruto: Naruto Next Generations Novel 1 - Fresh Leaves in a Blue Sky!",
       "volume": "1",
       "last_updated": "1743885474",
@@ -22,4 +21,5 @@
         "Novels": "/proxy/api/imgur/chapter/TpRo0Fv"
       }
     }
+  }
 }
